@@ -1,0 +1,20 @@
+# Site settings
+author: Hannah Sandusky
+title: 
+header-img: img/home-bg.png
+email: hnnahsandusky@gmail.com
+copyright_name: Hannah Sandusky
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: hannah_sandusky
+github_username:  hannahsan91
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
