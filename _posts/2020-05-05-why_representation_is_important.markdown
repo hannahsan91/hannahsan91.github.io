@@ -1,12 +1,10 @@
 ---
 layout: post
-title:      "Why representation is important"
-date:       2020-05-05 23:22:15 +0000
+title:      "What I've learned about Software Engineering"
+date:       2020-05-05 19:22:15 -0400
 permalink:  why_representation_is_important
 ---
 
-I don't know that many people would refute the gender disparity in the tech world, or STEM careers as a whole. I believe this is down to sexism--maybe not always conscious--in schools and families during childhood development. 
+It seems to me, from the Learn curriculum, that Software Engineering must be 100% coding, day in and day out,  whether that be indiviudal coding, or through pair programming. On further independent research, I've gleaned that this is not necessarily the case: yes, lots of coding is involved, but it's certainly not *all* that's involved. I thought, more or less, one would be spending the day in front of a computer, deep in code-mode. 
 
-I know for myself, both a lack of exposure to STEM activities and courses and an *active discouragement* of involvement shaped a lot of missed opportunities for me. 
-
-It's important to expose little girls to STEM and broader educational options. The important thing here is not always being pretty!
+In actuality, it appears that there is *a lot* of teamwork that goes into Software Engineering. If building apps, for example, you will be working with anyone from other coders to a marketing team, so verbal and written communication skills are important. Certainly makes me feel like I have something to add, as a BA in Communications :)
